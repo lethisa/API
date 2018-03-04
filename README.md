@@ -1,2 +1,2 @@
 # API
-- API Documentations
+- API Documentation
